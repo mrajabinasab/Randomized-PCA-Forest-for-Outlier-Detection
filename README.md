@@ -38,3 +38,21 @@ python rpcaforest.py -d ./ -p 5 -l 20 -f 50 -t 8 -r 2000 -v 1 -o output.odr
 ```
 
 The output.odr file will containt the fitted forest, calculated probabilities, scores, and auc results for all of the datasets in the directory.
+
+## Citation
+
+
+If you use our method in your research, please cite the original paper:
+
+
+```
+@misc{rajabinasab2025randomizedpcaforestoutlier,
+      title={Randomized PCA Forest for Outlier Detection}, 
+      author={Muhammad Rajabinasab and Farhad Pakdaman and Moncef Gabbouj and Peter Schneider-Kamp and Arthur Zimek},
+      year={2025},
+      eprint={2508.12776},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.12776}, 
+}
+```
