@@ -28,7 +28,7 @@ The script accepts the following arguments:
 - `-r`, `--recursionlimit`: Maximum number of recursions allowed. Default is `1000`.
 - `-v`, `--verbos`: Set it to `1` to enable verbosity, `0` to disable it. Default is `1`.
 - `-i`, `--load`: Filename to load the results from, `0` to disable loading.
-- `-o`, `--load`: Filename to save the results to, `0` to disable saving.
+- `-o`, `--save`: Filename to save the results to, `0` to disable saving.
 
 ## Example
 
